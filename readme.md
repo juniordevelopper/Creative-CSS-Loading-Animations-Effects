@@ -9,7 +9,7 @@
 ### 🌟 Overview
 Welcome to the **Creative CSS Loading Animation**! This project showcases the power of **Modern CSS3** combined with minimal **JavaScript** to create a mesmerizing circular loader. It features 20 dynamic dots with a smooth infinite scaling effect and a continuous color-shifting background.
 
-[📺 Watch Live Demo]([https://github.io](https://juniordevelopper.github.io/Creative-CSS-Loading-Animations-Effects/))
+[📺 Watch Live Demo](https://juniordevelopper.github.io/Creative-CSS-Loading-Animations-Effects/)
 
 ---
 
